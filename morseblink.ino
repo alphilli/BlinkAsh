@@ -1,4 +1,4 @@
-int led1 = D0; // Instead of writing D0 over and over again, we'll write led1
+int led1 = D7; // Instead of writing D7 over and over again, we'll write led1
 int lastType = -1;
 const int single_unit = 150;
 
